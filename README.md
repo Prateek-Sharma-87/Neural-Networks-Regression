@@ -1,1 +1,1 @@
-# Deep_Learning_Regression_with_Keras_More_Epochs_vs_More_Hidden_Layers.ipynb
+Regression using Deep Learning with Keras and Scikit-learn and exploring whether priority should be given towards 'more no. of epochs' or 'no. of hidden layers'. Also, the effect of 'normalization' of predictor variables on 'mean' and 'standard deviation' of 'Mean Squared Error' is explored.
